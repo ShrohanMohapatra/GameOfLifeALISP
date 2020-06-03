@@ -1,0 +1,36 @@
+Enter 1 for general linear algebra test,
+ 2 for special linear algebra test,
+ 3 for orthogonal algebra test,
+ and 4 for symplectic algebra test! 2
+Enter the size of the grid! 7
+Enter the number of steps! 100
+Initially the grid is of special linear algebra.
+Finally the grid is of general linear algebra!
+Do you want to continue? yes
+Enter 1 for general linear algebra test,
+ 2 for special linear algebra test,
+ 3 for orthogonal algebra test,
+ and 4 for symplectic algebra test! 4
+Enter the size of the grid! 8
+Enter the number of steps! 86
+Initially the grid is of symplectic algebra.
+Finally the grid is of symplectic algebra!
+Do you want to continue? yes
+Enter 1 for general linear algebra test,
+ 2 for special linear algebra test,
+ 3 for orthogonal algebra test,
+ and 4 for symplectic algebra test! 3
+Enter the size of the grid! 9
+Enter the number of steps! 50
+Initially the grid is of orthogonal algebra.
+Finally the grid is of symplectic algebra!
+Do you want to continue? yes
+Enter 1 for general linear algebra test,
+ 2 for special linear algebra test,
+ 3 for orthogonal algebra test,
+ and 4 for symplectic algebra test! 2
+Enter the size of the grid! 5
+Enter the number of steps! 40
+Initially the grid is of special linear algebra.
+Finally the grid is of symplectic algebra!
+Do you want to continue? no
